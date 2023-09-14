@@ -65,7 +65,7 @@ Contributions to this repository are welcome! If you have improvements, addition
 
 ## License
 
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 
 Thank you for using the AWS Services: S3 Bucket Operations repository. We hope you find it helpful in managing your AWS S3 buckets effectively. If you have any questions or feedback, please feel free to reach out.
 
